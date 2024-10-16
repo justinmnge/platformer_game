@@ -11,3 +11,7 @@ Things learned:
     - importing audio
 
 - Organizing the codebase better for better readability and execution
+
+- Fire bullet animation
+
+- Bee movement using Sin to create a 'natural' movement by importing sin from math
