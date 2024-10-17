@@ -17,6 +17,11 @@ Dive into a challenging platformer where danger lurks in every corner! In this a
 3. **Objective**: 
    - To destroy the Bees and Worms
 
+### Future implementation:
+   - GUI and menu
+   - Visual and sound effect improvements
+   - High score leaderboard
+
 ## Lessons Observed in the Project:
    - ### Technical Skills:
       - Implemented reusable timer functionality for various game mechanics:
