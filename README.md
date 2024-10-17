@@ -32,3 +32,16 @@ Dive into a challenging platformer where danger lurks in every corner! In this a
       - Created and managed sprite animations
       - Improved code organization for better readability and execution efficiency
 
+   - ### Game Development Concepts:
+      - Cooldown mechanics for player actions
+      - Enemy spawning systems
+      - Timed events and delayed actions in gameplay
+      - Asset management and organization
+      - Animation systems for game objects
+      - Advaned enemy movement patterns
+      - Code structure and organization in game development
+
+   - ### Tools & Frameworks:
+      - Practical experience with the Pygame library
+      - Version control
+
