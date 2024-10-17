@@ -21,6 +21,7 @@ Dive into a challenging platformer where danger lurks in every corner! In this a
    - GUI and menu
    - Visual and sound effect improvements
    - High score leaderboard
+   - Autosave game progress
 
 ## Lessons Observed in the Project:
    - ### Technical Skills:
