@@ -1,20 +1,34 @@
 
+# README
+
+Dive into a challenging platformer where danger lurks in every corner! In this action-packed game, crafted with Pygame, you'll face off against an onslaught of worms and bees determined to bring you down. Can you outsmart the creepy crawlies and soar above the buzzing threats?
+
 ![platformer_game](https://github.com/user-attachments/assets/528d0196-ee54-4c9b-8ea4-a67fa93c6e7a)
 
-Things learned:
-- Reuseable Timers:
-    - Player bullet cooldown
-    - Spawning enemy every x seconds
-    - keeping a fire sprite animation for an bit
-    - Enemies die 0.2 seconds after being shot
+# How to Play
 
-- Creating flexible import functions:
-    - importing images
-    - importing folders
-    - importing audio
+1. **Run the Game**: Open your terminal and type `python3 main.py` to start the game.
+   
+2. **Controls**:
+   - ***A/D Keys**: Use the A/D keys to move your character left/right.
+   - **Spacebar**: Jump.
+   - **F**: Fire your pistol to destroy the worms & bees.
 
-- Organizing the codebase better for better readability and execution
+3. **Objective**: 
+   - To destroy the Bees and Worms
 
-- Fire bullet animation
+## Lessons Observed in the Project:
+   - ### Technical Skills:
+      - Implemented reusable timer functionality for various game mechanics:
+        - Player bullet cooldown
+        - Enemy spawning intervals
+        - Sprite animation duration control
+        - Delayed Death after being hit
+      - Developed flexbile import functions for:
+        - Individual images
+        - Entire folders of assets
+        - Audio files
+      - Applied trigonometric functions (sin) from the math library for natural enemy movement
+      - Created and managed sprite animations
+      - Improved code organization for better readability and execution efficiency
 
-- Bee movement using Sin to create a 'natural' movement by importing sin from math
