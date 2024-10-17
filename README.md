@@ -10,7 +10,7 @@ Dive into a challenging platformer where danger lurks in every corner! In this a
 1. **Run the Game**: Open your terminal and type `python3 main.py` to start the game.
    
 2. **Controls**:
-   - ***A/D Keys**: Use the A/D keys to move your character left/right.
+   - **A/D Keys**: Use the A/D keys to move your character left/right.
    - **Spacebar**: Jump.
    - **F**: Fire your pistol to destroy the worms & bees.
 
