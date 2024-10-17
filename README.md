@@ -1,3 +1,6 @@
+
+![platformer_game](https://github.com/user-attachments/assets/528d0196-ee54-4c9b-8ea4-a67fa93c6e7a)
+
 Things learned:
 - Reuseable Timers:
     - Player bullet cooldown
